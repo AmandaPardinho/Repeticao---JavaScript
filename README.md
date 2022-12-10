@@ -3,6 +3,13 @@
 
 ---
 
+## **Notas**
+> No primeiro exercício do repositório, foi proposta a criação de uma estrutura simples de repetição que somava os itens de uma lista e, ao final, fornecia o valor total. Essa lista era composta pelas notas de prova de um determinado aluno durante um semestre.
+>
+> Para a estrutura de repetição, foi usada a estrutura 'for' a qual iterava até o tamnho final da lista. Assim, ao terminar de percorrê-la, o código nos entregava o valor da soma das notas. Com esse resultado, foi possível calcular a média dessas notas.
+
+---
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
@@ -17,7 +24,7 @@
 </a>
 
 ---
-    
+
 ![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
