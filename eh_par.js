@@ -13,11 +13,11 @@ leitor.question("Digite um número a ser inserido na lista: \n", (answer1) =>{
         leitor.question("Digite um número a ser inserido na lista: \n", (answer3) =>{
             leitor.question("Digite um número a ser inserido na lista: \n", (answer4) =>{
                 leitor.question("Digite um número a ser inserido na lista: \n", (answer5) =>{
-                    var numero = [parseInt(answer1, 10), parseInt(answer2, 10), parseInt(answer3, 10), parseInt(answer4, 10), parseInt(answer5, 10)];
-                    //console.log(numero);
+                    var numeros = [parseInt(answer1, 10), parseInt(answer2, 10), parseInt(answer3, 10), parseInt(answer4, 10), parseInt(answer5, 10)];
+                    //console.log(numeros);
                     for(let i = 0; i < 5; i++){
-                        if(numero[i] % 2 == 0){
-                            console.log(numero[i]);
+                        if(numeros[i] % 2 == 0){
+                            console.log(numeros[i]);
                         }
                     };
                 });
@@ -25,5 +25,3 @@ leitor.question("Digite um número a ser inserido na lista: \n", (answer1) =>{
         });
     });
 });
-
-
