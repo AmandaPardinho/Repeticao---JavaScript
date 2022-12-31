@@ -1,6 +1,5 @@
 console.log("Crie um programa que, dado um número, imprima sua tabuada");
 
-//var numero = 1;
 var tabuada;
 
 const readline = require(`node:readline`);
