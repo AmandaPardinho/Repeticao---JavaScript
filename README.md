@@ -1,5 +1,5 @@
 # **Repeticao---JavaScript**
-> Módulo sobra array do bootcamp Orange Tech+ e DIO
+> Módulo sobre estruturas de repetição do bootcamp Orange Tech+ e DIO.
 
 ---
 
