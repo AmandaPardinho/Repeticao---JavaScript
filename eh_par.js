@@ -20,8 +20,10 @@ leitor.question("Digite um número a ser inserido na lista: \n", (answer1) =>{
                             console.log(numeros[i]);
                         }
                     };
+                    leitor.close();
                 });
             });
         });
     });
 });
+
