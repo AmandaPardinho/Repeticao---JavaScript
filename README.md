@@ -3,7 +3,7 @@
 
 ---
 
-## **Notas**
+> ## **Notas**
 > No primeiro exercício do repositório, foi proposta a criação de uma estrutura simples de repetição que somava os itens de uma lista e, ao final, fornecia o valor total. Essa lista era composta pelas notas de prova de um determinado aluno durante um semestre.
 >
 > Para a estrutura de repetição, foi usada a estrutura 'for' a qual iterava até o tamnho final da lista. Assim, ao terminar de percorrê-la, o código nos entregava o valor da soma das notas. Com esse resultado, foi possível calcular a média dessas notas.
